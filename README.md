@@ -2,7 +2,7 @@
 ### @IkedaBruno
 
 Olá! Sou um aspirante a cientista de dados, possuindo habilidades nas diversas ferramentas pertencentes ao escopo de manipulação, análise e modelagem de dados.
-Possuo certos conhecimentos em web development bem como em linguagens de programação no geral com foco nas orientadas a objetos.
+Possuo certos conhecimentos em web development bem como em linguagens de programação no geral com foco nas orientadas a objeto.
 
 Algumas habilidades:
 - Linux 💻(Experiente)
