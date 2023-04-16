@@ -19,7 +19,7 @@ Algumas habilidades:
 - Java (Básico)
 
 
-Maior interesse em trabalhar em projetos de desenvolvimento de soluções. 
+Maior interesse em trabalhar em projetos de desenvolvimento de soluções baseadas em dados. 
 <!---
 IkedaBruno/IkedaBruno is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
